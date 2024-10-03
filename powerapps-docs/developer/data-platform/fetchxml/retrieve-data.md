@@ -20,7 +20,7 @@ contributors:
 
 You can use FetchXml to retrieve data using either the SDK for .NET or Web API. With Power Automate, you can retrieve data using the Web API using the [Fetch Xml Query parameter of the List Rows command](/power-automate/dataverse/list-rows#fetch-xml-query).
 
-You may also want to use [Community tools](overview.md#community-tools) like the [XrmToolbox](../community-tools.md#xrmtoolbox) [FetchXmlBuilder](https://fetchxmlbuilder.com/)
+You may also want to use [Community tools](overview.md#community-tools) like the [XrmToolbox](../community-tools.md#xrmtoolbox) [FetchXML Builder](https://fetchxmlbuilder.com/)
 
 How you retrieve data depends on whether you are using the [SDK for .NET](../org-service/overview.md) or [Dataverse Web API](../webapi/overview.md).
 
